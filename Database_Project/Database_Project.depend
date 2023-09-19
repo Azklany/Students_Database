@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1694122165 source:c:\users\askla\onedrive\desktop\programs\code blocks projects\amit asg\database_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1694975707 source:c:\users\askla\onedrive\desktop\programs\code blocks projects\amit asg\database_project\sdbapp.c
+	"SDB.h"
+
+1693336253 c:\users\askla\onedrive\desktop\programs\code blocks projects\amit asg\database_project\sdbapp.h
+	"SDB.h"
+
+1693933188 c:\users\askla\onedrive\desktop\programs\code blocks projects\amit asg\database_project\sdb.h
+	"STD.h"
+
+1693933429 c:\users\askla\onedrive\desktop\programs\code blocks projects\amit asg\database_project\std.h
+	<stdio.h>
+	"ctype.h"
+
+1694971720 source:c:\users\askla\onedrive\desktop\programs\code blocks projects\amit asg\database_project\sdb.c
+	"SDB.h"
+
